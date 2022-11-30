@@ -123,7 +123,7 @@ namespace ModelBindingTask.Controllers
         }
 
         //Model Binding: From Route
-        [HttpPost("/{CName}")]
+        //[HttpPost("/{CName}")]
         public IActionResult CreateFromRoute([FromRoute]Course course)
         {
             //course.CName = formdata["CName"];

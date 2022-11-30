@@ -293,3 +293,9 @@ C:\Users\THE FUTURE TECH\source\repos\ModelBindingTask\ModelBindingTask\bin\Debu
 C:\Users\THE FUTURE TECH\source\repos\ModelBindingTask\ModelBindingTask\bin\Debug\net6.0\System.Web.WebPages.Razor.dll
 C:\Users\THE FUTURE TECH\source\repos\ModelBindingTask\ModelBindingTask\bin\Debug\net6.0\System.Web.WebPages.dll
 C:\Users\THE FUTURE TECH\source\repos\ModelBindingTask\ModelBindingTask\bin\Debug\net6.0\Microsoft.Web.Infrastructure.dll
+C:\Users\THE FUTURE TECH\source\repos\ModelBindingTask\ModelBindingTask\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\THE FUTURE TECH\source\repos\ModelBindingTask\ModelBindingTask\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\THE FUTURE TECH\source\repos\ModelBindingTask\ModelBindingTask\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\THE FUTURE TECH\source\repos\ModelBindingTask\ModelBindingTask\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\THE FUTURE TECH\source\repos\ModelBindingTask\ModelBindingTask\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\THE FUTURE TECH\source\repos\ModelBindingTask\ModelBindingTask\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll
